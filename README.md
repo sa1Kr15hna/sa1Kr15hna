@@ -55,9 +55,9 @@
   <img width="12" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="hugging face logo"/>
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/D4E12AQHQP9J275Q_uA/article-cover_image-shrink_600_2000/0/1700940849777?e=2147483647&v=beta&t=m0HEQrukIOqU4fe1K9M19PaHq3UbvEubLzeIH1shcSc" height="40" alt="langchain logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/D4E12AQHQP9J275Q_uA/article-cover_image-shrink_600_2000/0/1700940849777?e=2147483647&v=beta&t=m0HEQrukIOqU4fe1K9M19PaHq3UbvEubLzeIH1shcSc" height="40" alt="langchain logo" />
 </div>
 
 ###
