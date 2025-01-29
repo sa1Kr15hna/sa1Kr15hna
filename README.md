@@ -66,8 +66,7 @@
 
 ###
 
-<p align="left">• Programming: Python, SQL, C++, Java,  OOPs, Data Structure and Algorithm.<br><br>• Data Engineering: Spark, Kafka, Hadoop, Scala, Airflow, Postgres, Snowflake, Databricks.<br><br>• Data Science: Data Analysis, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks and Deep Learning, Data Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis, Generative AI, Mathematics (Probability, Applied Statistics, Linear Algebra).<br><br>• Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Pytorch, Transformers, LangChain, Hugging Face, OpenAI.<br><br>• Web Development: HTML, CSS, Javascript.<br><br>• Tools: Tableau, Power BI, StreamlitGit, Google Colab, Microsoft Office Suite, Chroma DB,Rest APIs
-<br><br>• Salesforce: Apex, Triggers, Lightning Web Components, Data Cloud, Einstein Analytics, Salesforce Dashboards.
+<p align="left">• Programming Languages: Python, SQL, Apex, C++, R.<br><br>• Web Development: HTML, CSS, JavaScript.<br><br>• Platforms & Databases: MySQL server, MongoDB, PostgreSQL, Hadoop, Kafka.<br><br>• Tools: PySpark, Airflow, Git/GitHub, Jira, Excel, Tableau, Streamlit, Power BI, Beautiful Soup, Docker.<br><br>• Frameworks & Libraries: Pandas, Matplotlib, Plotly, PyTorch, TensorFlow, Keras, NLTK, Hugging Face.<br><br>• Salesforce Skills: Apex Triggers, Lightning Web Components (LWC), Process Builder, Flows, SOQL, Data Modeling, ETL, Einstein Analytics, REST APIs, Salesforce Dashboards, Data Cloud, Work-Relay. <br><br>• Miscellaneous Skills: NLP, Object-Oriented Programming, Data Structures and Algorithms, Design Patterns
 </p>
 
 ###
