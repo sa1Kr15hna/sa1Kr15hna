@@ -66,7 +66,12 @@
 
 ###
 
-<p align="left">• Programming Languages: Python, SQL, Apex, C++, R.<br><br>• Web Development: HTML, CSS, JavaScript.<br><br>• Platforms & Databases: MySQL server, MongoDB, PostgreSQL, Hadoop, Kafka.<br><br>• Tools: PySpark, Airflow, Git/GitHub, Jira, Excel, Tableau, Streamlit, Power BI, Beautiful Soup, Docker.<br><br>• Frameworks & Libraries: Pandas, Matplotlib, Plotly, PyTorch, TensorFlow, Keras, NLTK, Hugging Face.<br><br>• Salesforce Skills: Apex Triggers, Lightning Web Components (LWC), Process Builder, Flows, SOQL, Data Modeling, ETL, Einstein Analytics, REST APIs, Salesforce Dashboards, Data Cloud, Work-Relay. <br><br>• Miscellaneous Skills: NLP, Object-Oriented Programming, Data Structures and Algorithms, Design Patterns
+<p align="left">Languages & Libraries: Python, R, SQL, SAS, PySpark, LangChain, Pandas, Scikit-Learn, Pytorch, Keras
+Databases: MySQL, SQLite, PostgreSQL, NoSQL(MongoDB), Vector Databases(Chroma DB)
+Machine Learning: Supervised and Unsupervised Learning, Neural Networks, Deep Learning, Natural Language Processing(NLP), Regression Analysis, Generative AI, Auto ML, MLOps, NLTK, CNNs
+Data Analysis & Visualization: Hypothesis Testing, Tableau , Power BI, Matplotlib, Seaborn
+Data Engineering: ETL Pipelines, Databricks, ADLS, Blob Storage, Azure Data Factory, Azure CLI
+Tools: Git/Github, Docker, VS Code, MS Office, Airflow, Salesforce, Jira
 </p>
 
 ###
